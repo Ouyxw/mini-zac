@@ -1,0 +1,20 @@
+{
+    "storage": {
+        "rows": 4,
+        "cols": 8,
+        "spacing": 3.0
+    },
+
+    "entanglement": {
+        "rows": 2,
+        "cols": 3,
+        "site_spacing": 10.0,
+        "pair_spacing": 2.0
+    },
+
+    "zone_separation": 20.0,
+
+    "aod": {
+        "count": 1
+    }
+}
